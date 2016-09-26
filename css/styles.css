@@ -21,17 +21,36 @@
     color: #5e5e5e;
 }
 
-.fa-facebook, .fa-twitter, .fa-linkedin {
+.footer-text {
+    margin-bottom: 70px;
+}
+
+.fa-facebook, .fa-twitter, .fa-linkedin, .fa-github {
     font-size: 23px;
     padding-right: 12px;
     color: #5e5e5e;
 }
 
 .fa-facebook:hover,
-.fa-facebook:focus{color:#3B5998}
+.fa-facebook:focus{color:#3B5998;}
 
 .fa-twitter:hover,
-.fa-twitter:focus{color:#4099FF}
+.fa-twitter:focus{color:#4099FF;}
 
 .fa-linkedin:hover,
-.fa-linkedin:focus{color:#0e76a8}
+.fa-linkedin:focus{color:#0e76a8;}
+
+.fa-github:hover,
+.fa-github:focus{color:#000000;}
+
+.profile-picture {
+    margin-bottom: 50px;
+}
+
+.home-text p {
+    font-size: 18px;
+}
+
+.contact-info {
+    margin-top: 15px;
+}
