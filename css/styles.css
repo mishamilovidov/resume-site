@@ -1,0 +1,37 @@
+
+#header {
+    margin-top: 30px;
+}
+
+.navbar-brand {
+    font-size: 1.8em;
+    font-weight: bold;
+}
+
+.container-fluid {
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
+
+.jumbotron {
+    background-color: #f1f1f1;
+}
+
+.footer {
+    color: #5e5e5e;
+}
+
+.fa-facebook, .fa-twitter, .fa-linkedin {
+    font-size: 23px;
+    padding-right: 12px;
+    color: #5e5e5e;
+}
+
+.fa-facebook:hover,
+.fa-facebook:focus{color:#3B5998}
+
+.fa-twitter:hover,
+.fa-twitter:focus{color:#4099FF}
+
+.fa-linkedin:hover,
+.fa-linkedin:focus{color:#0e76a8}
