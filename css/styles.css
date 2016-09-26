@@ -8,13 +8,21 @@
     font-weight: bold;
 }
 
+.active {
+    font-weight: bold;
+}
+
 .container-fluid {
     padding-top: 8px;
     padding-bottom: 8px;
 }
 
 .jumbotron {
-    background-color: #f1f1f1;
+    background-color: #fafafa;
+}
+
+.resume-container, .about-container {
+    padding-top: 20px;
 }
 
 .footer {
@@ -53,4 +61,11 @@
 
 .contact-info {
     margin-top: 15px;
+}
+
+.panel-title-link {
+    color: #333;
+}
+.panel-title-link:hover {
+    color: #333;
 }
