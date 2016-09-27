@@ -25,6 +25,48 @@
     padding-top: 20px;
 }
 
+.location {
+    text-align: center;
+    margin-top:20px;
+}
+
+.location a{
+    font-size: 15px;
+    font-style: italic;
+    color: #333;
+}
+.location a:hover {
+    font-weight: bold;
+    text-decoration: none;
+}
+
+#move-down {
+    margin-top: 50px;
+}
+
+#clubs-label {
+    margin-top: 60px;
+}
+
+.clubs {
+    margin-top: 25px;
+    text-align: center;
+}
+
+.clubs a{
+    color: #333;
+}
+
+.clubs a:hover{
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.clubs a:visited{
+    text-decoration: none;
+    color: #333;
+}
+
 .footer {
     color: #5e5e5e;
 }
