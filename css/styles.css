@@ -8,13 +8,63 @@
     font-weight: bold;
 }
 
+.active {
+    font-weight: bold;
+}
+
 .container-fluid {
     padding-top: 8px;
     padding-bottom: 8px;
 }
 
 .jumbotron {
-    background-color: #f1f1f1;
+    background-color: #fafafa;
+}
+
+.resume-container, .about-container {
+    padding-top: 20px;
+}
+
+.location {
+    text-align: center;
+    margin-top:20px;
+}
+
+.location a{
+    font-size: 15px;
+    font-style: italic;
+    color: #333;
+}
+.location a:hover {
+    font-weight: bold;
+    text-decoration: none;
+}
+
+#move-down {
+    margin-top: 50px;
+}
+
+#clubs-label {
+    margin-top: 60px;
+}
+
+.clubs {
+    margin-top: 25px;
+    text-align: center;
+}
+
+.clubs a{
+    color: #333;
+}
+
+.clubs a:hover{
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.clubs a:visited{
+    text-decoration: none;
+    color: #333;
 }
 
 .footer {
@@ -51,6 +101,39 @@
     font-size: 18px;
 }
 
+#references {
+    font-size: 18px;
+    margin-top: 20px;
+}
+
+#download-link {
+    margin-top: 50px;
+}
+
+
+#download-link a {
+    font-size: 18px;
+    text-decoration: none;
+    color: #333;
+}
+
+#download-link a:hover {
+    font-weight: bold;
+}
+
+#download-link a::visited {
+    font-size: 18px;
+    text-decoration: none;
+    color: #333;
+}
+
 .contact-info {
     margin-top: 15px;
+}
+
+.panel-title-link {
+    color: #333;
+}
+.panel-title-link:hover {
+    color: #333;
 }
