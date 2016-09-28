@@ -1,4 +1,6 @@
 
+/*General Page Styling*************************************/
+
 #header {
     margin-top: 30px;
 }
@@ -44,29 +46,6 @@
     margin-top: 50px;
 }
 
-#clubs-label {
-    margin-top: 60px;
-}
-
-.clubs {
-    margin-top: 25px;
-    text-align: center;
-}
-
-.clubs a{
-    color: #333;
-}
-
-.clubs a:hover{
-    font-weight: bold;
-    text-decoration: none;
-}
-
-.clubs a:visited{
-    text-decoration: none;
-    color: #333;
-}
-
 .footer {
     color: #5e5e5e;
 }
@@ -93,6 +72,8 @@
 .fa-github:hover,
 .fa-github:focus{color:#000000;}
 
+/*Home Page Styling*************************************/
+
 .profile-picture {
     margin-bottom: 50px;
 }
@@ -101,10 +82,36 @@
     font-size: 18px;
 }
 
+/*Resume Page Styling*************************************/
+
 #references {
     font-size: 18px;
     margin-top: 20px;
 }
+
+#clubs-label {
+    margin-top: 60px;
+}
+
+.clubs {
+    margin-top: 25px;
+    text-align: center;
+}
+
+.clubs a{
+    color: #333;
+}
+
+.clubs a:hover{
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.clubs a:visited{
+    text-decoration: none;
+    color: #333;
+}
+
 
 #download-link {
     margin-top: 50px;
@@ -138,6 +145,12 @@
     color: #333;
 }
 
+/*About Page Styling*************************************/
+
 #ikea-achievement {
     margin-top: 35px;
+}
+
+#about-profile {
+    margin-top:45px;
 }
