@@ -108,7 +108,7 @@
                                             </div>
                                             <div class="col-md-3 clubs">
                                                 <img src="img/nhs-logo.png" class="center-block" alt="NHS Logo" width="40%">
-                                                <h5 class="text-center">National Honor Society</h5>
+                                                <h5 class="text-center">National Honor Societyz</h5>
                                                 <span><a href="https://www.nhs.us/?SSO=true" target="_blank"><i class="fa fa-link"></i> Website</a></span>
                                             </div>
                                             <div class="col-md-3 clubs" id="move-down">
