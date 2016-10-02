@@ -2,7 +2,7 @@
 
 A resume website build with the Laravel Framework.
 
-## Setting up local environment
+### Setting up local environment ###
 
 * PHP >= 5.5.9 Required
 * Fetch and Clone
