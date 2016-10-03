@@ -34,7 +34,7 @@
                     <div class="panel-body">
                         <div class="row">
                             <div class="col-md-4">
-                                <img src="img/byu-logo.png" class="center-block" alt="BYU Logo" width="50%">
+                                <img src="https://s3-us-west-2.amazonaws.com/mmilovidov/img/byu-logo.png" class="center-block" alt="BYU Logo" width="50%">
                                 <p class="location">
                                     <i class="fa fa-location-arrow"></i> 
                                     <a href="https://www.google.com/maps/place/Brigham+Young+University/@40.2518435,-111.6515043,17z/data=!3m1!4b1!4m5!3m4!1s0x874d90bc4aa0b68d:0xbf3eb3a3f30fdc4c!8m2!3d40.2518435!4d-111.6493156" target="_blank"> Provo, UT
@@ -53,12 +53,12 @@
                                                 <h4 id="clubs-label">Clubs:</h4>
                                             </div>
                                             <div class="col-md-3 clubs">
-                                                <img src="img/ais-logo.png" class="center-block" alt="BYU Logo" width="40%">
+                                                <img src="https://s3-us-west-2.amazonaws.com/mmilovidov/img/ais-logo.png" class="center-block" alt="BYU Logo" width="40%">
                                                 <h5 class="text-center">Association of Information Systems</h5>
                                                 <span><a href="http://ais.byu.edu" target="_blank"><i class="fa fa-link"></i> Website</a></span>
                                             </div>
                                             <div class="col-md-3 clubs">
-                                                <img src="img/byudev-logo.png" class="center-block" alt="BYU Logo" width="40%">
+                                                <img src="https://s3-us-west-2.amazonaws.com/mmilovidov/img/byudev-logo.png" class="center-block" alt="BYU Logo" width="40%">
                                                 <h5 class="text-center">BYU Developers Club</h5>
                                                 <span><a href="http://dev.byu.edu" target="_blank"><i class="fa fa-link"></i> Website</a></span>
                                             </div>
@@ -88,7 +88,7 @@
                     <div class="panel-body">
                         <div class="row">
                             <div class="col-md-4">
-                                <img src="img/ehs-logo.png" class="center-block" alt="EHS Logo" width="50%">
+                                <img src="https://s3-us-west-2.amazonaws.com/mmilovidov/img/ehs-logo.png" class="center-block" alt="EHS Logo" width="50%">
                                 <p class="location">
                                     <i class="fa fa-location-arrow"></i> 
                                     <a href="https://www.google.com/maps/place/East+High+School/@38.289738,-104.5796513,17z/data=!3m1!4b1!4m5!3m4!1s0x8713a39a94359e81:0x5dfd2761099cd5a6!8m2!3d38.289738!4d-104.5774626" target="_blank"> Pueblo, CO
@@ -107,12 +107,12 @@
                                                 <h4 id="clubs-label">Clubs:</h4>
                                             </div>
                                             <div class="col-md-3 clubs">
-                                                <img src="img/nhs-logo.png" class="center-block" alt="NHS Logo" width="40%">
+                                                <img src="https://s3-us-west-2.amazonaws.com/mmilovidov/img/nhs-logo.png" class="center-block" alt="NHS Logo" width="40%">
                                                 <h5 class="text-center">National Honor Society</h5>
                                                 <span><a href="https://www.nhs.us/?SSO=true" target="_blank"><i class="fa fa-link"></i> Website</a></span>
                                             </div>
                                             <div class="col-md-3 clubs" id="move-down">
-                                                <img src="img/mesa-logo.png" class="center-block" alt="MESA Logo" width="100%">
+                                                <img src="https://s3-us-west-2.amazonaws.com/mmilovidov/img/mesa-logo.png" class="center-block" alt="MESA Logo" width="100%">
                                                 <h5 class="text-center">Math Engineering Science Achievement</h5>
                                                 <span><a href="http://mesausa.org" target="_blank"><i class="fa fa-link"></i> Website</a></span>
                                             </div>
@@ -145,7 +145,7 @@
                     <div class="panel-body">
                         <div class="row">
                             <div class="col-md-4">
-                                <img src="img/doterra-logo.png" class="center-block" alt="doTERRA Logo" width="50%">
+                                <img src="https://s3-us-west-2.amazonaws.com/mmilovidov/img/doterra-logo.png" class="center-block" alt="doTERRA Logo" width="50%">
                                 <p class="location">
                                     <i class="fa fa-location-arrow"></i> 
                                     <a href="https://www.google.com/maps/place/doTERRA+International/@40.3596843,-111.7609011,17z/data=!3m1!4b1!4m5!3m4!1s0x874d8408fc057f87:0x4b41a6ac860bd7de!8m2!3d40.3596843!4d-111.7587124" target="_blank"> Pleasant Grove, UT
@@ -192,7 +192,7 @@
                     <div class="panel-body">
                         <div class="row">
                             <div class="col-md-4">
-                                <img src="img/homebase-logo.png" class="center-block" alt="Homebase AMC Logo" width="80%">
+                                <img src="https://s3-us-west-2.amazonaws.com/mmilovidov/img/homebase-logo.png" class="center-block" alt="Homebase AMC Logo" width="80%">
                                 <p class="location">
                                     <i class="fa fa-location-arrow"></i> 
                                     <a href="https://www.google.com/maps/place/Provo,+UT/@40.2573138,-111.7089457,12z/data=!3m1!4b1!4m5!3m4!1s0x874d9271930bf1bf:0x1d90f12600b556ef!8m2!3d40.2338438!4d-111.6585337" target="_blank"> Provo, UT
@@ -231,7 +231,7 @@
                     <div class="panel-body">
                         <div class="row">
                             <div class="col-md-4">
-                                <img src="img/mm-logo.png" class="center-block" alt="Missionary Mailbag Logo" width="50%">
+                                <img src="https://s3-us-west-2.amazonaws.com/mmilovidov/img/mm-logo.png" class="center-block" alt="Missionary Mailbag Logo" width="50%">
                                 <p class="location">
                                     <i class="fa fa-location-arrow"></i> 
                                     <a href="https://www.google.com/maps/place/Lehi,+UT/@40.4139652,-111.9038149,13z/data=!3m1!4b1!4m5!3m4!1s0x874d7fedd81a1b69:0xfd6fac81600d61c9!8m2!3d40.3916172!4d-111.8507662" target="_blank"> Lehi, UT
@@ -282,7 +282,7 @@
                     <div class="panel-body">
                         <div class="row">
                             <div class="col-md-4">
-                                <img src="img/byu-logo.png" class="center-block" alt="BYU Logo" width="50%">
+                                <img src="https://s3-us-west-2.amazonaws.com/mmilovidov/img/byu-logo.png" class="center-block" alt="BYU Logo" width="50%">
                                 <p class="location">
                                     <i class="fa fa-location-arrow"></i> 
                                     <a href="https://www.google.com/maps/place/Brigham+Young+University/@40.2518435,-111.6515043,17z/data=!3m1!4b1!4m5!3m4!1s0x874d90bc4aa0b68d:0xbf3eb3a3f30fdc4c!8m2!3d40.2518435!4d-111.6493156" target="_blank"> Provo, UT
@@ -328,7 +328,7 @@
                     <div class="panel-body">
                         <div class="row">
                             <div class="col-md-4">
-                                <img src="img/ldschurch-logo.png" class="center-block" alt="LDS Church Logo" width="80%">
+                                <img src="https://s3-us-west-2.amazonaws.com/mmilovidov/img/ldschurch-logo.png" class="center-block" alt="LDS Church Logo" width="80%">
                                 <p class="location">
                                     <i class="fa fa-location-arrow"></i> 
                                     <a href="https://www.google.com/maps/place/Portland,+OR/@45.5424151,-122.7244613,12z/data=!3m1!4b1!4m5!3m4!1s0x54950b0b7da97427:0x1c36b9e6f6d18591!8m2!3d45.5230622!4d-122.6764816" target="_blank"> Portland, OR
@@ -369,43 +369,43 @@
                                 <h4>Proficient with:</h4>
                                 <div class="row">
                                     <div class="col-md-4 skill">
-                                        <img src="img/git-logo.png" class="center-block" alt="Git Logo" width="30%">
+                                        <img src="https://s3-us-west-2.amazonaws.com/mmilovidov/img/git-logo.png" class="center-block" alt="Git Logo" width="30%">
                                         <h5 class="text-center">Git</h5>
                                     </div>
                                     <div class="col-md-4 skill">
-                                        <img src="img/htmlcssjavascript-logo.png" class="center-block" alt="HTML/CSS/Javascript Logo" width="60%">
+                                        <img src="https://s3-us-west-2.amazonaws.com/mmilovidov/img/htmlcssjavascript-logo.png" class="center-block" alt="HTML/CSS/Javascript Logo" width="60%">
                                         <h5 class="text-center">HTML/CSS/Javascript</h5>
                                     </div>
                                     <div class="col-md-4 skill">
-                                        <img src="img/bootstrap-logo.png" class="center-block" alt="PHP Logo" width="30%">
+                                        <img src="https://s3-us-west-2.amazonaws.com/mmilovidov/img/bootstrap-logo.png" class="center-block" alt="PHP Logo" width="30%">
                                         <h5 class="text-center">Bootstrap Framework</h5>
                                     </div>
                                 </div>
                                 <div class="row">
                                     <div class="col-md-4 skill">
-                                        <img src="img/php-logo.png" class="center-block" alt="PHP Logo" width="30%">
+                                        <img src="https://s3-us-west-2.amazonaws.com/mmilovidov/img/php-logo.png" class="center-block" alt="PHP Logo" width="30%">
                                         <h5 class="text-center">PHP</h5>
                                     </div>
                                     <div class="col-md-4 skill">
-                                        <img src="img/wp-logo.png" class="center-block" alt="WordPress Logo" width="35%">
+                                        <img src="https://s3-us-west-2.amazonaws.com/mmilovidov/img/wp-logo.png" class="center-block" alt="WordPress Logo" width="35%">
                                         <h5 class="text-center">WordPress</h5>
                                     </div>
                                     <div class="col-md-4 skill">
-                                        <img src="img/sql-logo.png" class="center-block" alt="SQL Logo" width="35%">
+                                        <img src="https://s3-us-west-2.amazonaws.com/mmilovidov/img/sql-logo.png" class="center-block" alt="SQL Logo" width="35%">
                                         <h5 class="text-center">SQL</h5>
                                     </div>
                                 </div>
                                 <div class="row">
                                     <div class="col-md-4 skill">
-                                        <img src="img/cplusplus-logo.png" class="center-block" alt="C++ Logo" width="50%">
+                                        <img src="https://s3-us-west-2.amazonaws.com/mmilovidov/img/cplusplus-logo.png" class="center-block" alt="C++ Logo" width="50%">
                                         <h5 class="text-center">C++</h5>
                                     </div>
                                     <div class="col-md-4 skill">
-                                        <img src="img/office-logo.png" class="center-block" alt="Microsoft Office Logo" width="30%">
+                                        <img src="https://s3-us-west-2.amazonaws.com/mmilovidov/img/office-logo.png" class="center-block" alt="Microsoft Office Logo" width="30%">
                                         <h5 class="text-center">Microsoft Office</h5>
                                     </div>
                                     <div class="col-md-4 skill">
-                                        <img src="img/vba-logo.png" class="center-block" alt="VBA Logo" width="50%">
+                                        <img src="https://s3-us-west-2.amazonaws.com/mmilovidov/img/vba-logo.png" class="center-block" alt="VBA Logo" width="50%">
                                         <h5 class="text-center">VBA</h5>
                                     </div>
                                 </div>
@@ -414,29 +414,29 @@
                                 <h4>Experience with:</h4>
                                 <div class="row">
                                     <div class="col-md-4 skill">
-                                        <img src="img/codeigniter-logo.png" class="center-block" alt="SEO Logo" width="40%">
+                                        <img src="https://s3-us-west-2.amazonaws.com/mmilovidov/img/codeigniter-logo.png" class="center-block" alt="SEO Logo" width="40%">
                                         <h5 class="text-center">Codeigniter Framework</h5>
                                     </div>
                                     <div class="col-md-4 skill">
-                                        <img src="img/laravel-logo.png" class="center-block" alt="SEO Logo" width="40%">
+                                        <img src="https://s3-us-west-2.amazonaws.com/mmilovidov/img/laravel-logo.png" class="center-block" alt="SEO Logo" width="40%">
                                         <h5 class="text-center">Laravel Framework</h5>
                                     </div>
                                     <div class="col-md-4 skill">
-                                        <img src="img/seo-logo.png" class="center-block" alt="SEO Logo" width="40%">
+                                        <img src="https://s3-us-west-2.amazonaws.com/mmilovidov/img/seo-logo.png" class="center-block" alt="SEO Logo" width="40%">
                                         <h5 class="text-center">SEO</h5>
                                     </div>
                                 </div>
                                 <div class="row">
                                     <div class="col-md-4 skill">
-                                        <img src="img/photoshop-logo.png" class="center-block" alt="Photoshop Logo" width="40%">
+                                        <img src="https://s3-us-west-2.amazonaws.com/mmilovidov/img/photoshop-logo.png" class="center-block" alt="Photoshop Logo" width="40%">
                                         <h5 class="text-center">Photoshop</h5>
                                     </div>
                                     <div class="col-md-4 skill">
-                                        <img src="img/angular-logo.png" class="center-block" alt="AngularJS Logo" width="38%">
+                                        <img src="https://s3-us-west-2.amazonaws.com/mmilovidov/img/angular-logo.png" class="center-block" alt="AngularJS Logo" width="38%">
                                         <h5 class="text-center">AngularJS</h5>
                                     </div>
                                     <div class="col-md-4 skill">
-                                        <img src="img/activedirectory-logo.png" class="center-block" alt="Active Directory Logo" width="40%">
+                                        <img src="https://s3-us-west-2.amazonaws.com/mmilovidov/img/activedirectory-logo.png" class="center-block" alt="Active Directory Logo" width="40%">
                                         <h5 class="text-center">Active Directory</h5>
                                     </div>
                                 </div>
@@ -509,7 +509,7 @@
                     <div class="panel-body">
                         <div class="row">
                             <div class="col-md-4">
-                                <img src="img/eaglescout-logo.png" class="center-block" alt="Eagle Scout Logo" width="50%">
+                                <img src="https://s3-us-west-2.amazonaws.com/mmilovidov/img/eaglescout-logo.png" class="center-block" alt="Eagle Scout Logo" width="50%">
                                 <p class="location">
                                     <i class="fa fa-link"></i> 
                                     <a href="http://www.nesa.org/trail.html" target="_blank"> Website
@@ -548,7 +548,7 @@
                     <div class="panel-body">
                         <div class="row">
                             <div class="col-md-4">
-                                <img src="img/ib-logo.png" class="center-block" alt="IB Logo" width="50%">
+                                <img src="https://s3-us-west-2.amazonaws.com/mmilovidov/img/ib-logo.png" class="center-block" alt="IB Logo" width="50%">
                                 <p class="location">
                                     <i class="fa fa-link"></i> 
                                     <a href="http://www.ibo.org/about-the-ib/" target="_blank"> Website
