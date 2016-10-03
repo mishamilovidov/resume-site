@@ -51,31 +51,31 @@
                             <div class="panel-body">
                                 <div class="row">
                                     <div class="col-md-6">
-                                        <img src="img/football.png" class="center-block" alt="Football Picture" width="30%">
+                                        <img src="https://s3-us-west-2.amazonaws.com/mmilovidov/img/football.png" class="center-block" alt="Football Picture" width="30%">
                                         <h5 class="text-center">Football</h5>
                                     </div>
                                     <div class="col-md-6">
-                                        <img src="img/basketball.png" class="center-block" alt="Basketball Picture" width="30%">
+                                        <img src="https://s3-us-west-2.amazonaws.com/mmilovidov/img/basketball.png" class="center-block" alt="Basketball Picture" width="30%">
                                         <h5 class="text-center">Basketball</h5>
                                     </div>
                                 </div>
                                 <div class="row">
                                     <div class="col-md-6">
-                                        <img src="img/soccer.png" class="center-block" alt="Soccer Picture" width="30%">
+                                        <img src="https://s3-us-west-2.amazonaws.com/mmilovidov/img/soccer.png" class="center-block" alt="Soccer Picture" width="30%">
                                         <h5 class="text-center">Soccer</h5>
                                     </div>
                                     <div class="col-md-6">
-                                        <img src="img/skiing.png" class="center-block" alt="Skiing Picture" width="30%">
+                                        <img src="https://s3-us-west-2.amazonaws.com/mmilovidov/img/skiing.png" class="center-block" alt="Skiing Picture" width="30%">
                                         <h5 class="text-center">Skiing</h5>
                                     </div>
                                 </div>
                                 <div class="row">
                                     <div class="col-md-6">
-                                        <img src="img/yoga.png" class="center-block" alt="Yoga Picture" width="30%">
+                                        <img src="https://s3-us-west-2.amazonaws.com/mmilovidov/img/yoga.png" class="center-block" alt="Yoga Picture" width="30%">
                                         <h5 class="text-center">Yoga</h5>
                                     </div>
                                     <div class="col-md-6">
-                                        <img src="img/outdoors.png" class="center-block" alt="Outdoors Picture" width="30%">
+                                        <img src="https://s3-us-west-2.amazonaws.com/mmilovidov/img/outdoors.png" class="center-block" alt="Outdoors Picture" width="30%">
                                         <h5 class="text-center">Being Outdoors</h5>
                                     </div>
                                 </div>
@@ -94,11 +94,11 @@
                         <div class="panel-body">
                             <div class="row">
                                 <div class="col-md-6" id="ikea-achievement">
-                                    <img src="img/ikea-logo.png" class="center-block" alt="IKEA Logo" width="50%">
+                                    <img src="https://s3-us-west-2.amazonaws.com/mmilovidov/img/ikea-logo.png" class="center-block" alt="IKEA Logo" width="50%">
                                     <h5 class="text-center">Advanced IKEA Product Assembler</h5>
                                 </div>
                                 <div class="col-md-6">
-                                    <img src="img/tvmount.png" class="center-block" alt="TV Mount Picture" width="50%">
+                                    <img src="https://s3-us-west-2.amazonaws.com/mmilovidov/img/tvmount.png" class="center-block" alt="TV Mount Picture" width="50%">
                                     <h5 class="text-center">Experienced TV Mounter</h5>
                                 </div>
                             </div>

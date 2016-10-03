@@ -14,7 +14,7 @@
     <div class="jumbotron">
         <div class="row">
             <div class="col-md-4">
-                <img src="img/headshot.png" class="img-circle center-block profile-picture" alt="Misha Milovidov Profile Picture" width="80%">
+                <img src="https://s3-us-west-2.amazonaws.com/mmilovidov/img/headshot.png" class="img-circle center-block profile-picture" alt="Misha Milovidov Profile Picture" width="80%">
             </div>
             <div class="col-md-8 home-text">
                 <p>I am a pragmatic person that loves expanding my knowledge, contributing to productive projects, and creating effective solutions.</p> 
