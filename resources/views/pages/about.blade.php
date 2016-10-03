@@ -15,7 +15,7 @@
         <h2>About</h2>
         <div class="row">
             <div class="col-md-4" id="about-profile">
-                <img src="/img/misha-summer.png" class="img-circle center-block profile-picture" alt="Misha and Summer Picture" width="70%">
+                <img src="https://s3-us-west-2.amazonaws.com/mmilovidov/img/misha-summer.png" class="img-circle center-block profile-picture" alt="Misha and Summer Picture" width="70%">
             </div>
             <div class="col-md-8">
                 <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
