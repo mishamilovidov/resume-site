@@ -17,7 +17,7 @@
                 <img src="https://s3-us-west-2.amazonaws.com/mmilovidov/img/headshot.png" class="img-circle center-block profile-picture" alt="Misha Milovidov Profile Picture" width="80%">
             </div>
             <div class="col-md-8 home-text">
-                <p>I am a pragmatic person that loves expanding my knowledge, contributing to productive projects, and creating effective solutions.</p> 
+                <p>I'm' a pragmatic person that loves expanding my knowledge, contributing to productive projects, and creating effective solutions.</p> 
                 <p>I enjoy learning about and participating in business; I am especially interested in improving the effeciency of business through the implementation of robust and scalable systems.</p>
                 <p>I am excited to learn from those with experience in the Information Systems industry and I look forward to adding value myself. </p>
                 <div class="row">
