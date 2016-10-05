@@ -17,9 +17,7 @@
 
         <!-- stylesheets -->
         <link rel="stylesheet" href="css/app.css">
-
-        <!-- jquery -->
-        <script src="js/app.js"></script>
+        
     </head>
     <body class="container">
         <!-- Header -->
@@ -31,5 +29,7 @@
         <!-- Footer -->
         <div>@include('layout.footer')</div>
 
+        <!-- jquery -->
+        <script src="js/app.js"></script>
     </body>
 </html>

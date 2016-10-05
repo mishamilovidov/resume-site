@@ -19,10 +19,11 @@
             <div class="col-md-8 home-text">
                 <p>I'm a pragmatic person that loves expanding my knowledge, contributing to productive projects, and creating effective solutions.</p> 
                 <p>I enjoy learning about and participating in business; I am especially interested in improving the effeciency of business through the implementation of robust and scalable systems.</p>
-                <p>I am excited to learn from those with experience in the Information Systems industry and I look forward to adding value myself. </p>
+                <p>I'm excited to learn from those with experience in the Information Systems industry and I look forward to adding value myself. </p>
                 <div class="row">
                     <div class="col-xs-12 contact-info">
-                        <p class="text-center">CONTACT ME:</p>
+                        <!-- <p class="text-center"><a href="/contact">CONTACT ME <span class="link glyphicon glyphicon-new-window" aria-hidden="true"></span></a></p>-->
+                        <p class="text-center">CONTACT ME:</a></p>
                         <p class="text-center"><a href="mailto:m.milovidov@icloud.com">m.milovidov@icloud.com</a></p>
                         <p class="text-center"><a href="tel:719-671-8207">719.671.8207</a></p>
                     </div>

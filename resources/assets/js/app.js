@@ -18,3 +18,11 @@ Vue.component('example', require('./components/Example.vue'));
 const app = new Vue({
     el: 'body'
 });
+
+// $(document).ready(function(){
+//     $('.contact-info a').hover(function(){  
+//         $(this).children('span.link').css({'display' : 'inline-block'});
+//     },function(){  
+//         $(this).children('span.link').css({'display' : 'none'});
+//     });
+// });

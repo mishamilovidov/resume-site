@@ -7,6 +7,7 @@
             <a href="https://github.com/mmilovidov" target="_blank"><i class="fa fa-github"></i></a>
         </div>
         <h5 class="footer-text">&copy; 2016 | Misha Milovidov</h5>
+        <p class="contact-info"><a href="/contact">Contact Me</a></p>
     </div>
 </footer>
 
