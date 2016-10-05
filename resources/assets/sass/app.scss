@@ -63,10 +63,25 @@
 
 .footer {
     color: #5e5e5e;
+    margin-bottom: 70px;
 }
 
-.footer-text {
-    margin-bottom: 70px;
+// .footer-text {
+//     margin-bottom: 70px;
+// }
+
+.contact-info a {
+    color: #333;
+}
+
+.contact-info a:hover{
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.contact-info a:visited{
+    text-decoration: none;
+    color: #333;
 }
 
 .fa-facebook, .fa-twitter, .fa-linkedin, .fa-github {
