@@ -6,13 +6,13 @@
 @stop
 
 @section('title')
-    Misha Milovidov | Contact
+    Misha Milovidov | Contact Me
 @stop
 
 @section('content')
 
     <div class="jumbotron">
-        <h2 class="">Contact</h2>
+        <h2 class="">Contact Me</h2>
         <div class="row">
         @foreach($errors->all() as $error)
         <div class="col-md-3">
