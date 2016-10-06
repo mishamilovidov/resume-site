@@ -5808,6 +5808,9 @@ button.close {
   color: #5e5e5e;
   margin-bottom: 70px; }
 
+.contact-info {
+  margin-top: 40px; }
+
 .contact-info a {
   color: #333; }
 
@@ -5888,9 +5891,6 @@ button.close {
   font-size: 18px;
   text-decoration: none;
   color: #333; }
-
-.contact-info {
-  margin-top: 15px; }
 
 .panel-title-link {
   color: #333; }
