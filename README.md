@@ -15,8 +15,3 @@ A resume website build with the Laravel Framework.
     * place the $HOME/.composer/vendor/bin directory (or the equivalent directory for your OS) in your $PATH so the laravel executable can be located by your system
 * Normal Workflow
     * php artisan serve
-
-### Contribution guidelines ###
-
-* Writing new code to a new branch
-* Code review before merging to master
