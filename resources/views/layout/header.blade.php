@@ -18,6 +18,7 @@
             <li><a href="{{URL::to('/')}}">Home</a></li>
             <li><a href="{{URL::to('/resume')}}">Resume</a></li>
             <li><a href="{{URL::to('/about')}}">About</a></li>
+            <li><a href="{{URL::to('/contact')}}">Contact</a></li>
         </ul>
 
         </div>

@@ -1,5 +1,7 @@
 <?php
 
+use App\Mail\ContactConfirmation;
+
 /*
 |--------------------------------------------------------------------------
 | Web Routes
@@ -17,5 +19,10 @@ Route::get('resume', 'PagesController@resume');
 
 Route::get('about', 'PagesController@about');
 
-Route::get('contact', 'PagesController@contact');
+// Route::get('contact', 'PagesController@contact');
+
+Route::get('contact', 
+  ['as' => 'contact', 'uses' => 'AboutController@create']);
+Route::post('contact', 
+  ['as' => 'contact_store', 'uses' => 'AboutController@store']);
 
