@@ -55,11 +55,18 @@
                                 {!! Form::textarea('message', null, 
                                     array('required', 
                                         'class'=>'form-control',
-                                        'rows'=>'6', 
+                                        'rows'=>'5', 
                                         'placeholder'=>'')) !!}
                             </div>
-                            <div class="pull-right">
-                                {!! Form::submit('Send Message', array('class'=>'btn btn-primary')) !!}
+                            <div class="row">
+                                <div class="col-md-8">
+                                    <div data-theme="light" style="transform:scale(0.77);-webkit-transform:scale(0.77);transform-origin:0 0;-webkit-transform-origin:0 0;">{!! app('captcha')->display(); !!}</div>
+                                </div>
+                                <div class="col-md-4">
+                                    <div class="pull-right">
+                                        {!! Form::submit('Send Message', array('class'=>'btn btn-primary')) !!}
+                                    </div>
+                                </div>
                             </div>
                         </div>
                     </div>
